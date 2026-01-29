@@ -1,0 +1,12 @@
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/AnalyticsServiceApplication.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/config/KafkaConsumerConfig.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/config/RedisConfig.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/consumer/LearningEventConsumer.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/controller/AnalyticsController.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/event/LearningEvent.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/event/LearningEventType.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/model/CourseAnalytics.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/model/PlatformAnalytics.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/model/UserAnalytics.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/service/AnalyticsEventStreamService.java
+/Users/aditisrivastava/Desktop/orbit/backend/analytics-service/src/main/java/com/orbit/analytics/service/AnalyticsService.java

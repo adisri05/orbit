@@ -1,0 +1,11 @@
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/ProgressServiceApplication.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/config/KafkaConsumerConfig.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/config/RedisConfig.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/consumer/LearningEventConsumer.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/controller/ProgressController.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/event/LearningEvent.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/event/LearningEventType.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/model/UserProgressSnapshot.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/service/ProgressCalculationService.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/service/ProgressEventStreamService.java
+/Users/aditisrivastava/Desktop/orbit/backend/progress-service/src/main/java/com/orbit/progress/service/ProgressStorageService.java

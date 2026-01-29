@@ -1,0 +1,15 @@
+com/orbit/recommendation/model/UserContext.class
+com/orbit/recommendation/config/WebClientConfig.class
+com/orbit/recommendation/controller/RecommendationController.class
+com/orbit/recommendation/service/RecommendationService.class
+com/orbit/recommendation/model/UserContext$UserContextBuilder.class
+com/orbit/recommendation/model/AnalyticsData.class
+com/orbit/recommendation/model/RuleType.class
+com/orbit/recommendation/model/RecommendationType.class
+com/orbit/recommendation/model/Recommendation.class
+com/orbit/recommendation/RecommendationServiceApplication.class
+com/orbit/recommendation/model/ProgressData.class
+com/orbit/recommendation/client/ProgressServiceClient.class
+com/orbit/recommendation/client/AnalyticsServiceClient.class
+com/orbit/recommendation/service/ContextAggregationService.class
+com/orbit/recommendation/service/RecommendationEngine.class

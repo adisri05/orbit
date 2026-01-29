@@ -1,0 +1,11 @@
+com/orbit/analytics/model/UserAnalytics.class
+com/orbit/analytics/AnalyticsServiceApplication.class
+com/orbit/analytics/config/KafkaConsumerConfig.class
+com/orbit/analytics/service/AnalyticsService.class
+com/orbit/analytics/controller/AnalyticsController.class
+com/orbit/analytics/model/CourseAnalytics.class
+com/orbit/analytics/event/LearningEventType.class
+com/orbit/analytics/model/PlatformAnalytics.class
+com/orbit/analytics/consumer/LearningEventConsumer.class
+com/orbit/analytics/event/LearningEvent.class
+com/orbit/analytics/config/RedisConfig.class

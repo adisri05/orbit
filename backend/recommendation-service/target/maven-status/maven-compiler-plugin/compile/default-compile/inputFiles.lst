@@ -1,0 +1,15 @@
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/RecommendationServiceApplication.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/client/AnalyticsServiceClient.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/client/ProgressServiceClient.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/config/RedisConfig.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/config/WebClientConfig.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/controller/RecommendationController.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/model/AnalyticsData.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/model/ProgressData.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/model/Recommendation.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/model/RecommendationType.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/model/RuleType.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/model/UserContext.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/service/ContextAggregationService.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/service/RecommendationEngine.java
+/Users/aditisrivastava/Desktop/orbit/backend/recommendation-service/src/main/java/com/orbit/recommendation/service/RecommendationService.java
